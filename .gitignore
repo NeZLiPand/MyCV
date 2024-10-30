@@ -1,0 +1,11 @@
+/*
+
+!/*.pdf
+!/readme.*
+!/.gitignore
+
+!/Layouts/
+!/Layouts/*.pub
+!/Layouts/*.odg
+
+*~lock*.*
