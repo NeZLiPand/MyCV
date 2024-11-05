@@ -4,8 +4,8 @@
 !/readme.*
 !/.gitignore
 
-!/Layouts/
-!/Layouts/*.pub
-!/Layouts/*.odg
+!/Layout/
+!/Layout/*.pub
+!/Layout/*.odg
 
 *~lock*.*
