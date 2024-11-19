@@ -7,5 +7,5 @@
 !/Layout/
 !/Layout/*.pub
 !/Layout/*.odg
-
+/Layout/*.odg.bak
 *~lock*.*
